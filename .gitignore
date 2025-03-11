@@ -1,0 +1,18 @@
+# Java-related files
+target/
+*.class
+*.jar
+*.war
+*.ear
+.mvn/
+*.log
+
+# IntelliJ IDEA / Eclipse settings
+.idea/
+.classpath
+.project
+.settings/
+
+# Node/Angular-related files
+node_modules/
+dist/
